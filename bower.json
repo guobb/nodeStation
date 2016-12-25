@@ -1,0 +1,25 @@
+{
+  "name": "nodeStation",
+  "authors": [
+    "apple <18576469764@163.com>"
+  ],
+  "description": "node Station movie",
+  "main": "",
+  "keywords": [
+    "node"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
